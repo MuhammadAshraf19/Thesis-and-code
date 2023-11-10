@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156217653987",
+    "project_id": "signin-page-2ef3b",
+    "storage_bucket": "signin-page-2ef3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156217653987:android:11865aa50a9f311eaba3d6",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3T8NzuI5uwbp5-aacV6u8bGZouUfmEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156217653987:android:af5bf2327e01c865aba3d6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3T8NzuI5uwbp5-aacV6u8bGZouUfmEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
